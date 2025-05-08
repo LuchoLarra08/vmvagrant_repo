@@ -57,3 +57,27 @@
    57  cd vmvagrant_repo
    58  ls
    59  history > historial.txt
+   60  ls
+   61  git status
+   62  git add .
+   63  git status
+   64  git commit -m "commit clase2"
+   65  git config --global user.email "lucianoendikápl@gmail.com"
+   66  git config --global user.name "LuchoLarra08"
+   67  git push
+   68  git pull origin main --rebase
+   69  git push origini main
+   70  git add .
+   71  git rebase --continue
+   72  git push origini main
+   73  git remote add origin https://github.com/LuchoLarra08/vmvagrant_repo.git
+   74  git remote -v
+   75  git ni
+   76  git push origini main 
+   77  ls
+   78  cd vmvagrant_repo$ ls
+   79  ls
+   80  /vmvagrant_repo$ ls
+   81  cd vmvagrant_repo
+   82  ls
+   83  history > historial.txt
